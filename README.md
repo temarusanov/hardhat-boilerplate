@@ -1,6 +1,6 @@
 # Hardhat solidity boilerplate
 
-This repository contains a template that you can use to develop smart contracts on Solidity. It use hardhat and hardhat plugins.Feel free to contribute this repo
+This repository contains a template that you can use to develop smart contracts on Solidity. It use hardhat and hardhat plugins. Feel free to contribute this repo
 
 
 ## Features
