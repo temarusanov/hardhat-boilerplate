@@ -63,7 +63,7 @@ More about options you can read [here](https://github.com/wighawag/hardhat-deplo
 This task will export the contract deployed (saved in `deployments` folder) to a file with a simple format containing only contract addresses and abi, useful for web apps.
 
 ```
-$ npx hardhat --network <network> etherscan-verify --solc-input
+$ npx hardhat --network <network> export --export deployments/<network>.json
 ```
 
 More about options you can read [here](https://github.com/wighawag/hardhat-deploy#6-hardhat-export)
