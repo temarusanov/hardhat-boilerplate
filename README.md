@@ -27,7 +27,7 @@ Your environment will have everything you need to build a Dapp powered by Hardha
 
 ## TODO
 
-[] Solhint
+- [ ] Solhint
 
 ## Installation
 
