@@ -25,6 +25,10 @@ Your environment will have everything you need to build a Dapp powered by Hardha
 - [Mocha gas reporter](https://github.com/cgewecke/eth-gas-reporter): A Mocha reporter for Ethereum test suites
 - [Hardhat deploy](https://github.com/wighawag/hardhat-deploy): A hardhat plugin for replicable deployments and easy testing
 
+## TODO
+
+[] Solhint
+
 ## Installation
 
 ```bash
