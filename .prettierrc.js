@@ -2,9 +2,12 @@ module.exports = {
   overrides: [
     {
       files: "*.sol",
+      rules: {
+        "unit-case": null,
+      },
       options: {
         bracketSpacing: false,
-        printWidth: 160,
+        printWidth: 300,
         tabWidth: 4,
         useTabs: false,
         singleQuote: false,
@@ -21,4 +24,4 @@ module.exports = {
       },
     },
   ],
-}
+};
